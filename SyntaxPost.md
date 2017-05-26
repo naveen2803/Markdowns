@@ -1,8 +1,8 @@
-#South American Fever Pitch
+# South American Fever Pitch
 
-##A Heated Match for the Ages
+## A Heated Match for the Ages
 
-###Pre-Game
+### Pre-Game
 
 The hour was at hand and not a sign of a breeze. Heat rose off the pitch and sat in the bowl of the _stadium_, contained by the humidity in the air. It was as if the neighboring __rain forest__ and rivers were rooting for some other sport that day.
 
