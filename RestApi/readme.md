@@ -48,7 +48,7 @@ Details and examples for each REST verb can be found via the links under each re
 
 **Document**
 
-- [GET](/resources/document/get.md)
-- [POST](/resources/document/post.md)
-- [PUT](/resources/document/put.md)
-- [DELETE](/resources/document/delete.md)
+- [GET](/RestApi/resources/document/Get.md)
+- [POST](/RestApi/resources/document/Post.md)
+- [PUT](/RestApi/resources/document/Put.md)
+- [DELETE](/RestApi/resources/document/Delete.md)
