@@ -1,6 +1,6 @@
 # MdSlimDocs REST API
 
-The REST API for MdSlimDocs provides CRUD support for working with resources used by the platform. 
+The REST API for MdSlimDocs provides CRUD support for working with resources used by the platform.
 
 - [API Key](#api-key)
 - [Resources](#resources)
@@ -21,7 +21,7 @@ Examples for setting the header value:
 
 *JavaScript (AngularJS $http)*
 ```javascript
-$http.get('http://site.com/api/documents', { 
+$http.get('http://site.com/api/documents', {
 		headers: {
 			'Authorization': 'Basic ' + yourToken
 		}
@@ -48,7 +48,7 @@ Details and examples for each REST verb can be found via the links under each re
 
 **Document**
 
-- [GET](/docs/resources/document/get.md)
-- [POST](/docs/resources/document/post.md)
-- [PUT](/docs/resources/document/put.md)
-- [DELETE](/docs/resources/document/delete.md)
+- [GET](/resources/document/get.md)
+- [POST](/resources/document/post.md)
+- [PUT](/resources/document/put.md)
+- [DELETE](/resources/document/delete.md)
